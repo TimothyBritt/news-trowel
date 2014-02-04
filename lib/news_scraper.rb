@@ -28,3 +28,4 @@ class NewsScraper
 end
 
 NewsScraper.new('http://news.google.com')
+NewsScraper.new('https://news.google.com/news/section?pz=1&cf=all&topic=b&siidp=a3be13b501f8442053304aa42462ab4a5e50&ict=ln')
